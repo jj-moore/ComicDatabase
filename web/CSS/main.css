@@ -1,0 +1,90 @@
+@font-face {
+    font-family: "Laffayette Comic Pro";
+    src: url(Laffayette_Comic_Pro.ttf);
+}
+
+body {
+  background-color: #0060A8;
+  color: #FFF200;
+  font: bold .95em "Laffayette Comic Pro", verdana;
+}
+
+img {
+  display: block;
+  margin: 0 auto 1em;
+}
+
+select, button, input {
+  font: normal .95em "Laffayette Comic Pro", verdana;
+  height: 1.5em;
+}
+
+select, button, #button, 
+#listReturn, #listButton, #arrayButton {
+  height: 2em;
+}
+
+#arrayButton {
+  width: 100px;
+}
+
+input {
+  width: 200px;
+}
+
+select {
+  width: 206px;
+}
+
+#shortText {
+  width: 100px;
+}
+
+td {
+  padding-left: 10px;
+}
+
+#button {
+  width: 150px;
+}
+
+h2 {
+  font-size: 2em;
+  text-align: center;
+  margin: 0.5em auto 0.5em;
+}
+
+#newrecord {
+  background-color: lightslategray;
+}
+
+#password {
+  font: normal .95em verdana;
+}
+
+.listTables {
+  display: inline-flex;
+  align-content: center;
+}
+
+table {
+  display: block;
+  margin: 0.5em auto 0;
+}
+
+#listButton {
+  width: 82px;
+}
+
+#listNew, #listButton {
+  margin-bottom: 1em;
+}
+
+#listReturn {
+  margin-left: 10px;
+  width: 210px;
+}
+
+#submit {
+  width: 206px;
+}

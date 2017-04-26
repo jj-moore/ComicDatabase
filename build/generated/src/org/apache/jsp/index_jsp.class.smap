@@ -1,0 +1,28 @@
+SMAP
+index_jsp.java
+JSP
+*S JSP
+*F
++ 0 header.jsp
+Includes/header.jsp
++ 1 index.jsp
+index.jsp
++ 2 footer.html
+Includes/footer.html
+*L
+1,13:66
+14,4:80
+17:84
+18:85,3
+19,3:88
+1#1:90
+2:130,7
+2:93
+3:150,8
+4:158
+4:180,5
+4:161
+5,11:96
+1#2,6:106
+15#1:111
+*E
